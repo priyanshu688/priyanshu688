@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hello People! 👋
+ I'm Priyanshu Vaishnavi, A Undergrad Student👩‍🎓 passionate about learning.
+ 
+ - 💻 Currently working on Android App projects.
+ - 🤝 Looking forward to work on Web Development projects.
+ - ✨ Desire to develop new possibilities in the field of **DBMS & DATA SCIENCE✌**
+ - 📫 How to reach me:vaishnavipriyanshu198@gmail.com
 
 <!--
 **priyanshu688/priyanshu688** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
