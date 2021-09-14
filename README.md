@@ -1,7 +1,6 @@
 
 
-### Hello People! 👋
- I'm Priyanshu Vaishnavi, A Undergrad Student👩‍🎓 passionate about learning.<br>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Priyanshu Vaishnavi</h1>
  
 ## 🙋‍♀️About Me 
  
