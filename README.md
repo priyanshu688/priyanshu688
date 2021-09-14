@@ -72,7 +72,7 @@
 <a href = "https://www.linkedin.com/in/priyanshu-vaishnavi/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://github.com/priyanshu688" target="blank"><img src="https://img.icons8.com/fluent/48/000000/github.png"/></a>
 <a href = "https://www.instagram.com/motivational_grid1/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-<a href = "https://www.discord.com/p_vaishnavi#4119/"><img src="https://img.icons8.com/fluent/48/000000/discord-new.png"/></a>
+<a href = "https://discord.com/p_vaishnavi#4119/"><img src="https://img.icons8.com/fluent/48/000000/discord.png"/></a>
 
 </p>
 
