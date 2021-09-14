@@ -64,12 +64,12 @@
 <br/>
 <br/>
 
-## CONNECT WITH ME HERE🤩👇:<p align="left"> <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" height="33px" /></p>  </h3>
+## Let's Connect Here👇:<p align="left"> <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" height="33px" /></p>  </h3>
 
 <a href = "www.linkedin.com/in/priyanshu-vaishnavi/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 &emsp;<a href="https://github.com/priyanshu688" target="blank"><img src="https://img.icons8.com/fluent/48/000000/github.png"/></a>
 <a href = "https://www.instagram.com/motivational_grid1/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-
+<a href = "https://discord.com/p_vaishnavi#4119/"><img src="https://img.icons8.com/fluent/48/000000/discord.png"/></a>
 
 </p>
 
