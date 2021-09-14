@@ -36,6 +36,12 @@
 
 </p>
 
+## Views and Followers
+<a href="https://github.com/priyanshu688/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=priyanshu688">
+</a>
+<a href="https://github.com/priyanshu688?tab=followers"><img src="https://img.shields.io/github/followers/priyanshu688?label=Followers&style=social" alt="GitHub Badge"></a>
+
 <!--
 **priyanshu688/priyanshu688** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
