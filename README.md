@@ -2,7 +2,7 @@
  I'm Priyanshu Vaishnavi, A Undergrad Student👩‍🎓 passionate about learning.<br>
  
  - 💻 Currently working on Android App projects & Web Development projects.
- - 👯 I’m looking to collaborate on **Open Source Projects.
+ - 👯 I’m looking to collaborate on **Open Source Projects**.
  - ✨ Desire to develop new possibilities in the field of **DBMS & DATA SCIENCE✌**
  - 📫 How to reach me: vaishnavipriyanshu198@gmail.com
 
