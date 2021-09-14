@@ -24,6 +24,15 @@
 <br/>
 <br/>
 
+## CONNECT WITH ME HERE🤩👇:<p align="left"> <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" height="33px" /></p>  </h3>
+
+<a href = "www.linkedin.com/in/priyanshu-vaishnavi/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+&emsp;<a href="https://github.com/priyanshu688" target="blank"><img src="https://img.icons8.com/fluent/48/000000/github.png"/></a>
+<a href = "https://www.instagram.com/motivational_grid1/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+
+
+</p>
+
 <!--
 **priyanshu688/priyanshu688** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
