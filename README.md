@@ -23,9 +23,12 @@
   <br/>
   
   
+  <br/>
   <div align="center">
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=priyanshu688&theme=dark" alt="PriyanshuVaishnavi" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=priyanshu688&theme=dark" alt="PriyanshuVaishnavi"/></p>
   </div>
+<br/>
+
 
 <br/>
 <br/>
