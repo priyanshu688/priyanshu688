@@ -43,13 +43,10 @@
 
 ## 📊 My Github Stats
 
-  <table>
-  <tr>
-   
-<td><img src="https://github-readme-stats.vercel.app/api?username=priyanshu688&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Priyanshu Vaishnavi" />
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=priyanshu688&show_icons=true&locale=en&layout=compact&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Priyanshu Vaishnavi" /></td>
-  </tr>
-</table>
+  <br/>
+    <a href="https://github.com/priyanshu688/github-readme-stats"><img alt="Priyanshu Vaishnavi's Github Stats" src="https://github-readme-stats.vercel.app/api?username=priyanshu688&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0,000000,13" /></a>
+  <a href="https://github.com/priyanshu688/github-readme-stats"><img alt="Subham Raoniar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshu688&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <br/>
   
   
   <br/>
