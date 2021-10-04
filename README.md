@@ -44,7 +44,9 @@
 ## 📊 My Github Stats
 
   <br/>
-    <a href="https://github.com/priyanshu688/github-readme-stats"><img alt="Priyanshu Vaishnavi's Github Stats" src="https://github-readme-stats.vercel.app/api?username=priyanshu688&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gur-jot&show_icons=true&locale=en" alt="gur-jot" /></p>
+
+    
   <a href="https://github.com/priyanshu688/github-readme-stats"><img alt="Subham Raoniar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshu688&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
   
