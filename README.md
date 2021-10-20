@@ -77,6 +77,11 @@
 <a  href="https://www.youtube.com/channel/UCCRQtbvt-RImhLC4gtOz6gw" target="_blank"><img alt="YouTube" src="https://img.shields.io/badge/Youtube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" /></a>
 
 </div>
+ 
+ ## Badges
+<a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='37' height='37'>
+</a> <a href='https://education.github.com/pack'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='37' height='37'></a> 
+
 
 
 ## Views and Followers
