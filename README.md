@@ -18,7 +18,7 @@
  - 📫 How to reach me: vaishnavipriyanshu198@gmail.com
 
 
-## 💻My Technical Skills
+## 💻Technical Skills
 
 <p align="center">
     
