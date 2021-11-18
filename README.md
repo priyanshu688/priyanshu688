@@ -40,7 +40,7 @@
  
  </p>
  
- ## Frameworks and Technologies I am familiar with
+ ## 👩‍💻 Frameworks and Technologies I am familiar with - 
       ⪼ Git
       ⪼ GitHub
       ⪼ Kubernetes
