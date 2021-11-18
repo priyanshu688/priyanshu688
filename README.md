@@ -41,11 +41,11 @@
  </p>
  
  ## Frameworks and Technologies I am familiar with
-<br/> ⪼ Git
+      ⪼ Git
       ⪼ GitHub
       ⪼ Kubernetes
       ⪼ Google Cloud Console 
-      ⪼ Azure <br/>
+      ⪼ Azure 
 
 
 ## 📊 My Github Stats
