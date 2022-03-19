@@ -8,7 +8,7 @@
 <h3 align="center">I'm currently an undergraduate pursuing my bachelor's in computer science engineering .</h3>
 
 
-## 🙋‍♀️About Me 
+## 🙋‍♀️ About Me 
  
  
  - 💻 Currently working on the Web Development projects  & Android App projects.
