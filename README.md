@@ -11,7 +11,7 @@
 ## 🙋‍♀️ About Me 
  
  
- - 💻 Currently working on the Web Development projects  & Android App projects.
+ - 💻 Currently working on the Web Development projects & Android App projects.
  - ☁  Exploring Cloud Services and contributing towards it.
  - 👯 I’m looking to collaborate on **Open Source Projects**.
  - ✨ Desire to develop new possibilities in the field of **DBMS & DATA SCIENCE✌**.
