@@ -44,7 +44,7 @@
       ⪼ GitHub
       ⪼ Kubernete
       ⪼ Google Cloud Console 
-      ⪼ Azure 
+      ⪼ Microsoft Azure 
 
 
 ## 📊 My Github Stats
