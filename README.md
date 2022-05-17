@@ -14,7 +14,7 @@
  - 💻 Currently working on the Web Development projects and Android App projects.
  - ☁  Exploring Cloud Services and contributing towards it.
  - 👯 I’m looking to collaborate on **Open Source Projects**.
- - ✨ Desire to develop new possibilities in the field of **DBMS & DATA SCIENCE✌**.
+ - ✨ Desire to develop the new possibilities in the field of **DBMS & DATA SCIENCE✌**.
  - ✍ Sometimes I write articles on [Medium](https://medium.com/@vaishnavipriyanshu198) 
  - ⚡ Fun fact :- I love to attend Meetups for learning & Conferences for Networking.
  - 📫 Reach me at :- vaishnavipriyanshu198@gmail.com
