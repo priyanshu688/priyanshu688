@@ -2,7 +2,7 @@
 <a href="#"><img width="60%" height="auto" src="https://miro.medium.com/max/1600/0*K2WLMTExLyida7OR.gif" height="90px"/></a>
 </div>
  
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Priyanshu Vaishnavi</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px">, I'm Priyanshu Vaishnavi</h1>
 
 
 <h3 align="center">I'm currently an undergraduate pursuing my bachelor's in computer science engineering .</h3>
