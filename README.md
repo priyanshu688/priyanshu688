@@ -12,7 +12,7 @@
  
  
  - 💻 Currently working on the Web Development projects and Android App projects.
- - ☁  Exploring t Cloud Services and contributing towards it.
+ - ☁  Exploring th Cloud Services and contributing towards it.
  - 👯 I’m looking to collaborate on **Open Source Projects**.
  - ✨ Desire to develop the new possibilities in the field of **DBMS & DATA SCIENCE✌**.
  - ✍ Sometimes I write articles on [Medium](https://medium.com/@vaishnavipriyanshu198) 
