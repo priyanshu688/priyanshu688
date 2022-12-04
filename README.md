@@ -41,6 +41,7 @@
  </p>
  
  ## 👩‍💻 Frameworks and Technologies I am familiar with - 
+      ⪼ Git
       ⪼ GitHub
       ⪼ Microsoft Azure
       ⪼ Google Cloud Console 
