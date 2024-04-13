@@ -5,7 +5,7 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Priyanshu Vaishnavi</h1>
 
 
-<h3 align="center">I'm currently an undergraduate pursuing my bachelor's in Computer Science & Engineering.</h3>
+<h3 align="center">Experienced professional with 6 months in WordPress development, complemented by foundational knowledge of MERN stack. Versatile experience in e-commerce, gaming, travel, hotel, and attendance tracking industries. Skilled in developing and maintaining client-specific websites, ensuring project goals are met. Passionate about growth and innovation, continuously seeking opportunities to expand skill set and stay updated on emerging technologies.</h3>
 
 
 ## 🙋‍♀️ About Me 
