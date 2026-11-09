@@ -10,29 +10,21 @@
 
 ## 🙋‍♀️ About Me 
  
- 
 Implementation and client delivery professional with 3 years of experience taking web, e-commerce and SaaS work from
 requirements to go-live.
 • Owned 70–75 client website projects and 100+ change requests, 99% within a 24-hour SLA
 • Raised attendance-tracking accuracy from 40% to 95% on a B2B SaaS platform by writing backend fixes
 • B.Tech CSE - University Gold Medalist - 86.8%
  
- ## 👩‍💻 KEY SKILLS & TOOLS - 
-Implementation Requirement Gathering, Client Onboarding, Scope & Acceptance Criteria, REST API Integration (WordPress),
+ ## 👩‍💻 KEY SKILLS & TOOLS -
+ 
+**Implementation Requirement:** Gathering, Client Onboarding, Scope & Acceptance Criteria, REST API Integration (WordPress),
 Data Import & Mapping, QA / UAT, SLA Management
-Project Delivery Project Management, Agile, Stakeholder Reporting, Risk & Dependency Tracking, Process Improvement
-Client & Process Stakeholder Management, Client Communication, Cross-Functional Collaboration, Escalation Handling, SOPs
-Tools
-Jira, HubSpot CRM, WordPress, WooCommerce, Excel, SQL, Confluence, Figma, Google Analytics (GA4)
-     
-
+**Project Delivery:** Project Management, Agile, Stakeholder Reporting, Risk & Dependency Tracking, Process Improvement
+**Client & Process:** Stakeholder Management, Client Communication, Cross-Functional Collaboration, Escalation Handling, SOPs
+**Tools:** Jira, HubSpot CRM, WordPress, WooCommerce, Excel, SQL, Confluence, Figma, Google Analytics (GA4)
 
 ## 📊 My Github Stats
-
-  <br/>
-  <a href="https://github.com/priyanshu688/github-readme-stats"><img alt="Priyanshu Vaishnavi's Github Stats" src="https://github-readme-stats.vercel.app/api?username=priyanshu688&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a> 
-  <a href="https://github.com/priyanshu688/github-readme-stats"><img alt="Subham Raoniar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshu688&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <br/>
   
   <br/>
   <div align="center">
