@@ -4,10 +4,6 @@
  
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Priyanshu Vaishnavi</h1>
 
-
-<h3 align="center">Implementation & Client Delivery Specialist | Project Coordination | Web, E-commerce & B2B SaaS</h3>
-
-
 ## 🙋‍♀️ About Me 
  
 Implementation and client delivery professional with 3 years of experience taking web, e-commerce and SaaS work from
