@@ -5,8 +5,7 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Priyanshu Vaishnavi</h1>
 
 
-<h3 align="center">Implementation & Client Delivery Specialist | Project Coordination | Web, E-commerce & B2B SaaS
-+91 8298149202 | vaishnavipriyanshu198@gmail.com | Hyderabad, India (open to Bengaluru / Remote)</h3>
+<h3 align="center">Implementation & Client Delivery Specialist | Project Coordination | Web, E-commerce & B2B SaaS</h3>
 
 
 ## 🙋‍♀️ About Me 
@@ -39,7 +38,7 @@ requirements to go-live.
  <img alt="firebase" src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" /> 
  </p>
  
- ## 👩‍💻 Frameworks and Technologies I am familiar with - 
+ ## 👩‍💻 KEY SKILLS & TOOLS - 
 Implementation Requirement Gathering, Client Onboarding, Scope & Acceptance Criteria, REST API Integration (WordPress),
 Data Import & Mapping, QA / UAT, SLA Management
 Project Delivery Project Management, Agile, Stakeholder Reporting, Risk & Dependency Tracking, Process Improvement
