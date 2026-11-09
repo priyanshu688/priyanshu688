@@ -19,9 +19,9 @@ requirements to go-live.
  ## 👩‍💻 KEY SKILLS & TOOLS -
  
 **Implementation Requirement:** Gathering, Client Onboarding, Scope & Acceptance Criteria, REST API Integration (WordPress),
-Data Import & Mapping, QA / UAT, SLA Management
-**Project Delivery:** Project Management, Agile, Stakeholder Reporting, Risk & Dependency Tracking, Process Improvement
-**Client & Process:** Stakeholder Management, Client Communication, Cross-Functional Collaboration, Escalation Handling, SOPs
+Data Import & Mapping, QA / UAT, SLA Management<br>
+**Project Delivery:** Project Management, Agile, Stakeholder Reporting, Risk & Dependency Tracking, Process Improvement<br>
+**Client & Process:** Stakeholder Management, Client Communication, Cross-Functional Collaboration, Escalation Handling, SOPs<br>
 **Tools:** Jira, HubSpot CRM, WordPress, WooCommerce, Excel, SQL, Confluence, Figma, Google Analytics (GA4)
 
 ## 📊 My Github Stats
@@ -30,11 +30,6 @@ Data Import & Mapping, QA / UAT, SLA Management
   <div align="center">
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=priyanshu688&theme=dark" alt="PriyanshuVaishnavi"/></p>
   </div>
-<br/>
-
-
-<br/>
-<br/>
 
 ## 📈 My Contributions Graph
 
