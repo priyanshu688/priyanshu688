@@ -5,19 +5,18 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Priyanshu Vaishnavi</h1>
 
 
-<h3 align="center">Experienced professional with 6 months in WordPress development, complemented by foundational knowledge of MERN stack. Versatile experience in e-commerce, gaming, travel, hotel, and attendance tracking industries. Skilled in developing and maintaining client-specific websites, ensuring project goals are met. Passionate about growth and innovation, continuously seeking opportunities to expand skill set and stay updated on emerging technologies.</h3>
+<h3 align="center">Implementation & Client Delivery Specialist | Project Coordination | Web, E-commerce & B2B SaaS
++91 8298149202 | vaishnavipriyanshu198@gmail.com | Hyderabad, India (open to Bengaluru / Remote)</h3>
 
 
 ## 🙋‍♀️ About Me 
  
  
- - 💻 Currently working on the Web Development Projects and Android App Project.
- - ☁  Exploring the Cloud Services and contributing towards it.
- - 👯 I’m looking to collaborate on **Open Source Projects**.
- - ✨ Desire to develop the new possibilities in the field of **DBMS & DATA SCIENCE✌**.
- - ✍ Sometimes I write articles on [Medium](https://medium.com/@vaishnavipriyanshu198) 
- - ⚡ Fun fact :- I love to attend the Meetups for learning & Conferences for Networking.
- - 📫 Reach me at:- vaishnavipriyanshu198@gmail.com
+Implementation and client delivery professional with 3 years of experience taking web, e-commerce and SaaS work from
+requirements to go-live.
+• Owned 70–75 client website projects and 100+ change requests, 99% within a 24-hour SLA
+• Raised attendance-tracking accuracy from 40% to 95% on a B2B SaaS platform by writing backend fixes
+• B.Tech CSE - University Gold Medalist - 86.8%
 
 
 ## 💻 My Technical Skills
@@ -41,10 +40,12 @@
  </p>
  
  ## 👩‍💻 Frameworks and Technologies I am familiar with - 
-      ⪼ Git
-      ⪼ GitHub
-      ⪼ Microsoft Azure
-      ⪼ Google Cloud Console 
+Implementation Requirement Gathering, Client Onboarding, Scope & Acceptance Criteria, REST API Integration (WordPress),
+Data Import & Mapping, QA / UAT, SLA Management
+Project Delivery Project Management, Agile, Stakeholder Reporting, Risk & Dependency Tracking, Process Improvement
+Client & Process Stakeholder Management, Client Communication, Cross-Functional Collaboration, Escalation Handling, SOPs
+Tools
+Jira, HubSpot CRM, WordPress, WooCommerce, Excel, SQL, Confluence, Figma, Google Analytics (GA4)
      
 
 
