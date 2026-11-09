@@ -18,11 +18,11 @@ requirements to go-live.
  
  ## 👩‍💻 KEY SKILLS & TOOLS -
  
-**Implementation Requirement:** Gathering, Client Onboarding, Scope & Acceptance Criteria, REST API Integration (WordPress),
+**• Implementation Requirement:** Gathering, Client Onboarding, Scope & Acceptance Criteria, REST API Integration (WordPress),
 Data Import & Mapping, QA / UAT, SLA Management<br>
-**Project Delivery:** Project Management, Agile, Stakeholder Reporting, Risk & Dependency Tracking, Process Improvement<br>
-**Client & Process:** Stakeholder Management, Client Communication, Cross-Functional Collaboration, Escalation Handling, SOPs<br>
-**Tools:** Jira, HubSpot CRM, WordPress, WooCommerce, Excel, SQL, Confluence, Figma, Google Analytics (GA4)
+**• Project Delivery:** Project Management, Agile, Stakeholder Reporting, Risk & Dependency Tracking, Process Improvement<br>
+**• Client & Process:** Stakeholder Management, Client Communication, Cross-Functional Collaboration, Escalation Handling, SOPs<br>
+**• Tools:** Jira, HubSpot CRM, WordPress, WooCommerce, Excel, SQL, Confluence, Figma, Google Analytics (GA4)
 
 ## 📊 My Github Stats
   
@@ -30,14 +30,6 @@ Data Import & Mapping, QA / UAT, SLA Management<br>
   <div align="center">
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=priyanshu688&theme=dark" alt="PriyanshuVaishnavi"/></p>
   </div>
-
-## 📈 My Contributions Graph
-
-<br/>
-<a href="https://github.com/priyanshu688/github-readme-activity-graph"><img alt="Priyanshu Vaishnavi's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=priyanshu688&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
-
-<br/>
-<br/>
 
 ## Let's Connect Here👇:
 
