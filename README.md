@@ -11,9 +11,9 @@
 ## 🙋‍♀️ About Me 
  
 Implementation and client delivery professional with 3 years of experience taking web, e-commerce and SaaS work from
-requirements to go-live.
-• Owned 70–75 client website projects and 100+ change requests, 99% within a 24-hour SLA
-• Raised attendance-tracking accuracy from 40% to 95% on a B2B SaaS platform by writing backend fixes
+requirements to go-live.<br>
+• Owned 70–75 client website projects and 100+ change requests, 99% within a 24-hour SLA<br>
+• Raised attendance-tracking accuracy from 40% to 95% on a B2B SaaS platform by writing backend fixes<br>
 • B.Tech CSE - University Gold Medalist - 86.8%
  
  ## 👩‍💻 KEY SKILLS & TOOLS -
